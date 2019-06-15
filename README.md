@@ -1,2 +1,2 @@
 # Brainfuckshell
-A Brainfuck running place wriiten by C
+A Brainfuck running place written by C
