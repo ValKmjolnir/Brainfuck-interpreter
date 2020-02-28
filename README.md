@@ -1,2 +1,2 @@
-# Brainfuckshell
-A Brainfuck running place written by C
+# Brainfuck interpreter
+A Brainfuck interpreter written by C/C++
