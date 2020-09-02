@@ -27,7 +27,7 @@ void run()
 }
 int main()
 {
-	scanf("%s",program);
+	scanf("%s\n",program);
 	int i=0;
 	for(;i<1024;++i)paper[i]='\0';
 	run();
